@@ -8,3 +8,15 @@ env.bak/
 venv.bak/
 
 node_modules/
+__pycache__/
+*__pycache__/
+*.pyc
+*.pyc
+
+idea
+idea\
+idea/
+.idea
+.idea\
+.idea/
+**/.idea/
